@@ -1,5 +1,14 @@
-### Hi there 👋
+<div align=center>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Hello👋%20I'm%20sewon🤩&fontSize=40" />
+  <h3>🛠️ Tech Stack 🛠️</h3>
+  <h3>💬 Contact 💬</h3>
+</div>
 
+
+<!--
+### Hi there 👋
+  <h2>About Me⚡</h2>
+-->
 <!--
 **sewonlog/sewonlog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
