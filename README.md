@@ -1,7 +1,25 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Hello👋%20I'm%20sewon🤩&fontSize=40" />
   <h3>🛠️ Tech Stack 🛠️</h3>
+  	<div align="center">
+    	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+    	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+    	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
+    </div>
+  
   <h3>💬 Contact 💬</h3>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
+
+  <br><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewonlog&layout=compact"><br><br>
 </div>
 
 
