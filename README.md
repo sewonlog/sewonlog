@@ -1,8 +1,15 @@
+<p align="center">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb3C9Dc%2FbtsonaZE3In%2FTCD9MkOxNrxdzkymAXiGs1%2Fimg.png" align="center">
+</p>
+
+
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Hello👋%20I'm%20sewon🤩&fontSize=40" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Hello👋%20I'm%20sewon🤩&fontSize=40" /> -->
+
+
   <h3>🛠️ Tech Stack 🛠️</h3>
   	<div align="center">
-    	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+    	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" pointer-events: none; />
     	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
     	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
       <br>
@@ -14,13 +21,16 @@
     </div>
   
   <h3>💬 Contact 💬</h3>
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+  <a href="naver.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
 
   <br><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewonlog&layout=compact"><br><br>
 </div>
+
 
 
 <!--
