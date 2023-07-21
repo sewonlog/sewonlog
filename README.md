@@ -21,7 +21,7 @@
     </div>
   
   <h3>💬 Contact 💬</h3>
-  <a href="naver.com">
+  <a href="https://www.naver.com/">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
