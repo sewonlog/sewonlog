@@ -24,10 +24,10 @@
   <a href="mailto:sewonlog@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/s1212w_/" target="_blank">
+  <a href="https://www.instagram.com/s1212w_/" target='_blank'>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://sewonlog.tistory.com/2" target="_blank">
+  <a href="https://sewonlog.tistory.com/2" target='_blank'>
     <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
   </a>
 
