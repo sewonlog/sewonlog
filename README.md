@@ -21,7 +21,7 @@
     </div>
   
   <h3>💬 Contact 💬</h3>
-  <a href="sewonlog@gmail.com" target="_blank">
+  <a href="matilto:hey.sewonlog@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/s1212w_/" target="_blank">
