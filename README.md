@@ -21,11 +21,15 @@
     </div>
   
   <h3>💬 Contact 💬</h3>
-  <a href="https://www.naver.com/">
+  <a href="sewonlog@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
+  <a href="https://www.instagram.com/s1212w_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://sewonlog.tistory.com/2" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
+  </a>
 
   <br><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewonlog&layout=compact"><br><br>
