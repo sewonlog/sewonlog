@@ -20,7 +20,7 @@
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
     </div>
   
-  <h3>💬 Contact 💬</h3>
+  <h3>📞 Contact 📞</h3>
   <a href="mailto:sewonlog@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
   </a>
