@@ -7,7 +7,7 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Hello👋%20I'm%20sewon🤩&fontSize=40" /> -->
 
 
-  <h3>🛠️ Tech Stack 🛠️</h3>
+  <h3>✏️ Tech Stack ✏️</h3>
   	<div align="center" style="pointer-events: none;">
     	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" pointer-events: none; />
     	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -19,6 +19,15 @@
       <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
     </div>
+
+  <h3>⚒️ Tools ⚒️</h3>
+      <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white" />
+      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" />
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+    <br>
+      <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
   
   <h3>📌 Contact 📌</h3>
   <a href="mailto:sewonlog@gmail.com">
