@@ -15,9 +15,11 @@
       <br>
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
       <br>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
+      <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white" />
     </div>
 
   <h3>⚒️ Tools ⚒️</h3>
